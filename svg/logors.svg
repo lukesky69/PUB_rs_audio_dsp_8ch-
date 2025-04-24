@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="91"
+   width="287"
+   version="1.1"
+   id="svg872"
+   sodipodi:docname="logors.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview874"
+     pagecolor="#adadad"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="138.375"
+     inkscape:cy="68.375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="1341"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg872" />
+  <g
+     transform="scale(0.7)"
+     id="g838">
+    <use
+       height="102.45"
+       transform="translate(245.5)"
+       width="141.2"
+       xlink:href="#shape0"
+       id="use818" />
+    <use
+       height="113.95"
+       transform="translate(27.8,2.75)"
+       width="227.39999"
+       xlink:href="#shape1"
+       id="use820" />
+    <use
+       height="2.45"
+       transform="translate(0,123.4)"
+       width="247.60001"
+       xlink:href="#shape2"
+       id="use822" />
+    <use
+       height="23"
+       transform="translate(356.7,103.5)"
+       width="25.65"
+       xlink:href="#shape3"
+       id="use824" />
+    <use
+       height="21.5"
+       transform="translate(342.15,104.2)"
+       width="10.65"
+       xlink:href="#shape4"
+       id="use826" />
+    <use
+       height="9.9499998"
+       transform="translate(341.7,91.75)"
+       width="11.5"
+       xlink:href="#shape5"
+       id="use828" />
+    <use
+       height="33.049999"
+       transform="translate(311.6,93.45)"
+       width="25.85"
+       xlink:href="#shape6"
+       id="use830" />
+    <use
+       height="22.35"
+       transform="translate(283.75,104.2)"
+       width="24.35"
+       xlink:href="#shape7"
+       id="use832" />
+    <use
+       height="31.1"
+       transform="translate(248.6,94.6)"
+       width="34.349998"
+       xlink:href="#shape8"
+       id="use834" />
+    <use
+       height="2.45"
+       transform="translate(377.55,124.45)"
+       width="31.950001"
+       xlink:href="#shape9"
+       id="use836" />
+  </g>
+  <defs
+     id="defs870">
+    <g
+       id="shape0">
+      <path
+         d="m 30,92.95 q 15,-3.15 23.45,-8.5 8.4,-5.4 8.3,-14 Q 60.35,66.4 51.4,64.15 42.45,61.85 31,59.65 19.55,57.4 10.6,53.4 1.6,49.4 0.15,41.85 -0.7,35.55 3.85,31.3 19.7,15.05 40.45,8.1 61.2,1.15 81.95,0.3 q 20.75,-0.85 36.6,1.15 15.8,1.95 21.8,3.6 0.45,0.1 0.85,0.25 l -9.5,14.25 -3.35,-0.6 Q 113.15,17.9 95.1,18.7 q -18,0.8 -33.7,4.2 -15.65,3.45 -23.75,10.25 -3,2.7 -1.95,4.2 1,1.55 4.45,3.05 12.9,5.35 29,7.9 16.1,2.55 25.6,8.55 9.55,6 2.8,21.75 -3.95,6.15 -9.6,11.05 H 77.1 v 6.8 q -5.2,3.4 -11.35,6 v -2.3 h -30.6 -2.5 L 30,92.95"
+         fill="#ffffff"
+         fill-opacity="0.768627"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path840" />
+    </g>
+    <g
+       id="shape1">
+      <path
+         d="m 110.8,28.05 q -11.3,11.15 -22.6,22.3 -3.1,2.15 1.1,1.55 5.7,0 18.45,-1.2 12.7,-1.15 26.9,-4.05 14.15,-2.9 24.15,-8.15 10,-5.25 10.25,-13.4 -1.2,-10.1 -14.15,-9.85 -12.95,0.25 -26.7,4.9 -13.75,4.7 -17.4,7.9 M 0,104.35 Q 1.8,101.95 15.95,87.5 30.15,73.1 48.75,54.45 67.35,35.8 82.4,20.8 97.45,5.8 100.95,2.3 q 1.4,-1.55 2.05,-1.95 0.65,-0.4 2.8,-0.35 13.75,0.1 27.55,0.25 l 2.5,2.5 q 3.3,1.6 15.2,-0.65 11.85,-2.3 25.65,-1.95 13.75,0.4 22.75,9.9 7.55,15.8 -0.1,26.75 -7.65,10.95 -23.65,17.9 -16.05,6.95 -33.7,10.75 -17.65,3.75 -30.15,5.2 -12.5,1.45 -13.05,1.35 6.3,8 27.35,13.45 21.05,5.45 48.45,7.5 Q 202,95 227.4,92.7 l -7.7,21.25 q -32.1,1.45 -63.95,-3.45 -31.8,-4.95 -56.95,-14.35 -25.2,-9.4 -37.35,-21.4 -14.55,14.7 -29.1,29.5 -0.1,0.05 -0.1,0.1 H 0"
+         fill="#ffffff"
+         fill-opacity="0.768627"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path843" />
+    </g>
+    <g
+       id="shape2">
+      <path
+         d="M 2.75,0 H 247.6 l -0.6,1.45 -0.4,1 H 0 L 2.75,0"
+         fill="#ffffff"
+         fill-opacity="0.890196"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path846" />
+    </g>
+    <g
+       id="shape3">
+      <path
+         d="m 12.75,15.85 q 1.7,0 2.75,-1.2 1.05,-1.2 1.05,-3.15 0,-1.95 -1.05,-3.15 Q 14.45,7.2 12.75,7.2 11,7.2 9.95,8.35 8.9,9.55 8.9,11.5 q 0,2 1.05,3.2 1.05,1.15 2.8,1.15 m 12.9,-4.35 q 0,2.45 -1.05,4.65 -1.1,2.2 -3.05,3.9 -1.7,1.45 -3.95,2.2 Q 15.4,23 12.85,23 10.25,23 8.05,22.25 5.85,21.5 4.1,20.05 2.15,18.4 1.05,16.2 0,13.95 0,11.5 0,9.05 1.05,6.85 2.15,4.6 4.1,3 5.85,1.5 8.05,0.75 10.25,0 12.85,0 q 2.55,0 4.75,0.75 2.25,0.75 4,2.25 1.9,1.6 3,3.85 1.05,2.2 1.05,4.65"
+         fill="#ffffff"
+         fill-opacity="0.768627"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path849" />
+    </g>
+    <g
+       id="shape4">
+      <path
+         d="M 0,21.5 V 0 H 10.65 V 21.5 H 0"
+         fill="#ffffff"
+         fill-opacity="0.768627"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path852" />
+    </g>
+    <g
+       id="shape5">
+      <path
+         d="M 11.5,4.95 Q 11.5,7.25 9.95,8.6 8.45,9.95 5.8,9.95 3.15,9.95 1.55,8.6 0,7.2 0,4.95 0,2.65 1.55,1.3 3.1,0 5.8,0 8.45,0 10,1.3 q 1.5,1.35 1.5,3.65"
+         fill="#ffffff"
+         fill-opacity="0.768627"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path855" />
+    </g>
+    <g
+       id="shape6">
+      <path
+         d="m 12.95,16.95 q -1.8,0 -2.95,1.25 -1.1,1.25 -1.1,3.35 0,2.05 1.15,3.4 1.1,1.3 2.9,1.3 1.75,0 2.9,-1.3 1.1,-1.35 1.1,-3.4 0,-2.1 -1.1,-3.35 -1.1,-1.25 -2.9,-1.25 M 25.85,0 v 32.25 h -9.9 V 29.1 q -1.4,2 -3.15,3 Q 11,33.05 8.85,33.05 4.9,33.1 2.45,29.9 0,26.7 0,21.45 0,16.4 2.5,13.25 5,10.1 8.85,10.1 q 2.05,0 3.75,0.9 1.7,0.95 3,2.8 Q 15.5,13.15 15.45,12.25 15.35,11.35 15.4,10 V 0 h 10.45"
+         fill="#ffffff"
+         fill-opacity="0.768627"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path858" />
+    </g>
+    <g
+       id="shape7">
+      <path
+         d="m 0,0 h 9.5 v 10.55 q 0,1.85 0.35,2.15 0.9,1.05 2.35,1.4 1.45,-0.35 2.3,-1.35 0.4,-0.25 0.35,-2.2 V 0 h 9.5 v 11.6 q 0,5.55 -2.9,8.15 -2.9,2.6 -9.25,2.6 Q 5.9,22.3 2.95,19.75 0,17.15 0,11.6 V 0"
+         fill="#ffffff"
+         fill-opacity="0.768627"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path861" />
+    </g>
+    <g
+       id="shape8">
+      <path
+         d="m 13.85,20 h 6.35 l -0.95,-3.45 q -0.7,-2.6 -0.95,-4 -0.25,-1.45 -0.35,-2.7 H 16.1 q -0.05,1.25 -0.3,2.7 -0.3,1.4 -0.95,4 l -1,3.45 M 0,31.1 11.05,0 H 23.5 l 10.85,31.1 h -12 l -1,-3.85 h -8.4 L 12,31.1 H 0"
+         fill="#ffffff"
+         fill-opacity="0.768627"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path864" />
+    </g>
+    <g
+       id="shape9">
+      <path
+         d="m 0.35,0 h 31.6 l -0.1,1.45 -0.05,1 H 0 L 0.35,0"
+         fill="#ffffff"
+         fill-opacity="0.890196"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path867" />
+    </g>
+  </defs>
+</svg>

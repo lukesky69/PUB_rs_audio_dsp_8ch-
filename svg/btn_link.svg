@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="45"
+   width="45"
+   version="1.1"
+   id="svg92"
+   sodipodi:docname="btn_link.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview94"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="13.547523"
+     inkscape:cx="53.256968"
+     inkscape:cy="19.523864"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="1341"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg92" />
+  <g
+     transform="scale(0.5)"
+     id="g59">
+    <use
+       height="88"
+       transform="translate(0,2.1)"
+       width="88"
+       xlink:href="#shape0"
+       id="use49" />
+    <use
+       height="71.800003"
+       transform="translate(1.05,0.65)"
+       width="71.800003"
+       xlink:href="#shape1"
+       id="use51" />
+    <use
+       height="73.050003"
+       transform="translate(0.4)"
+       width="73.050003"
+       xlink:href="#shape2"
+       id="use53" />
+    <use
+       height="26.549999"
+       transform="translate(31.55,23.3)"
+       width="26.6"
+       xlink:href="#shape3"
+       id="use55" />
+    <use
+       height="26.450001"
+       transform="translate(15.85,23.3)"
+       width="26.6"
+       xlink:href="#shape4"
+       id="use57" />
+  </g>
+  <defs
+     id="defs90">
+    <g
+       id="shape0">
+      <pattern
+         height="88"
+         id="PatternID_1"
+         overflow="visible"
+         patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)"
+         patternUnits="userSpaceOnUse"
+         viewBox="0 0 88 88"
+         width="88">
+        <image
+           height="88"
+           width="88"
+           xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAABYCAYAAABxlTA0AAAD9ElEQVR42u2dS0hUYRiGz+g4lnfLyopMzW5QCw2Moos3otoURbYpSCS7uAoKQmgTRhSFmdIqgla1CIJKukHthCCCotAR2hREFzMoKsXU3p95Dw165uiogfi/B57VnPMP3zPf+f5/Nt/nOLqmxBXwIMEivOKfNKnmCxJBECSRkIW4sQfpI1r+uOQmcsEZIAWkgQyQCbJAtkVkMW4TfzpIpZdQlOxAvHKTKXUWyAWLQD5YAorAUosoYtwFIA8sADkUPpOJOCbJ0XIzKLYQrAalYAMoAxWgklRNY9wYTbzlYBNYB4rBCibdbGZ0iJJ9rwTeaF6D+VzELLgd7AU1oA4cAUdJ/TTGjdHEewjUgn1gJ6UXM6tzWEaDflkc4A3mxrlgOdgI9vDLToFz4BJoAa0WYeJtBhfAaXAcHADbQAlYzDqd7JfFbvZmstauBbvBMS58HdwG98Ej8NgiTLwPwB1wA1xhwtWwhKxkUqawxMYUbHbGOXxgC1+L8+AmeApegDcgTLoswI21A7wE7RRtJJ8Au8AasJCHAs8y4W5uqdwhS5i9J8E18IRi34PP4CvosQgT7xfwgdLbmXSNYD9YzzKR4Sc4yM0tjxubefAMuAWeg3fgG/gFekGfRZh4f4PvlPwK3AUXwUGwmaetTB7ZPAUn8Rco4HGklgvcA6/BJ/AT9IMBC+mn5G6Wi4fgMjjME0URN7qQn+BMHqjLWX+bWdw7uHAvv2wQDFnEIOPuZbkIc/Nr5TGukn9IsmOdhwP8IIu/RAXPfi3cQcNc2BU8ZCEDLBc9rMNxCXaPaNm8sZIPtnKhMBfuk+ARguv5r29CgrskeHIFV/FBCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgCZZgdZ2ySbD6pk1QsDr//efOf+pdOfbelT3OOHtXqvuqP3+cf91XO/lmt/BNH1P3VfUPHr1/8A/wkQnXBpqcyNCAMr75vv2D1QHbn27KfQueMfHOOpFm+Wb8RT4rgKdg9yShHu6x+7h3MnONXDMo4CpoANVOZMaImakRs4d79FFNUwhiTyJoY+YauY1MwK1glRMZ6uJOIfAUrDkao8/SaGJZaKDcHUxE07/djCTynaMRncWaBOM9DaaONbeamWvkLgPzWB5i1t/hm51mGXnPMyqjg1KWhULKTaezRCfOgVGaxjVyIlc+XeTSTVo8codL1jw575lyaXSSTEdxyY2WrImIo09FnJQRlLbP9Pxvcz116Zra118YzLE6dbKytwAAAABJRU5ErkJggg=="
+           id="image61" />
+      </pattern>
+      <path
+         d="M 0,88 V 0 H 88 V 88 H 0"
+         style="fill:url(#PatternID_1)"
+         id="path64" />
+    </g>
+    <g
+       id="shape1">
+      <path
+         d="M 68.8,71.8 H 3 Q 0.25,71.55 0,68.8 V 3 Q 0.25,0.25 3,0 h 65.8 q 2.75,0.25 3,3 v 65.8 q -0.25,2.75 -3,3"
+         fill="url(#gradient0)"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path67" />
+    </g>
+    <linearGradient
+       gradientTransform="matrix(0,-0.0438,0.0438,0,35.9,35.9)"
+       gradientUnits="userSpaceOnUse"
+       id="gradient0"
+       spreadMethod="pad"
+       x1="-819.20001"
+       x2="819.20001">
+      <stop
+         offset="0.0"
+         stop-color="#1d1e1c"
+         id="stop70" />
+      <stop
+         offset="0.4117647058823529"
+         stop-color="#444442"
+         id="stop72" />
+      <stop
+         offset="0.5176470588235295"
+         stop-color="#525250"
+         id="stop74" />
+      <stop
+         offset="0.6039215686274509"
+         stop-color="#3f3f3e"
+         id="stop76" />
+      <stop
+         offset="1.0"
+         stop-color="#000000"
+         id="stop78" />
+    </linearGradient>
+    <g
+       id="shape2">
+      <path
+         d="M 69.45,72.45 H 3.65 q -2.75,-0.25 -3,-3 V 3.65 q 0.25,-2.75 3,-3 h 65.8 q 2.75,0.25 3,3 v 65.8 q -0.25,2.75 -3,3 z"
+         fill="none"
+         stroke="#b6b4b5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.3"
+         id="path81" />
+    </g>
+    <g
+       id="shape3">
+      <path
+         d="m 0,13.3 q 0,0 0.05,0.9 0,0.45 0.15,1.05 0.05,0.65 0.3,1.45 0.4,1.6 1.65,3.55 1.3,1.95 3.65,3.5 2.45,1.5 5.6,1.8 0.8,0.05 1.55,0 0.85,-0.05 1.65,-0.2 1.55,-0.25 3.1,-1 3.05,-1.55 5,-4.5 0.9,-1.45 1.4,-3.15 0.45,-1.7 0.5,-3.35 -0.05,-1.9 -0.5,-3.5 -0.5,-1.65 -1.4,-3.1 -1.95,-3 -5,-4.5 Q 14.6,0.8 11.35,1.05 8.25,1.35 5.8,2.85 3.45,4.4 2.15,6.35 0.9,8.25 0.5,9.9 0.25,10.7 0.2,11.3 0.05,11.95 0.05,12.4 0,13.3 0,13.3 q 0,0 0.05,-0.9 0,-0.45 0.1,-1.1 0.1,-0.65 0.3,-1.45 0.4,-1.6 1.6,-3.6 1.2,-2 3.5,-3.8 2.35,-1.7 5.75,-2.3 3.4,-0.55 6.95,0.8 1.75,0.7 3.3,1.9 1.5,1.25 2.65,2.85 1.15,1.65 1.75,3.6 0.6,2 0.65,3.95 -0.05,2.1 -0.65,4.05 -0.6,1.9 -1.75,3.55 -1.15,1.65 -2.65,2.85 -1.55,1.2 -3.3,1.9 -1.75,0.7 -3.55,0.9 -0.9,0.1 -1.7,0.05 -0.9,0 -1.7,-0.1 Q 7.95,25.85 5.55,24.1 3.25,22.35 2.05,20.35 0.85,18.35 0.45,16.7 0.25,15.9 0.15,15.25 0.05,14.65 0.05,14.2 0,13.3 0,13.3"
+         fill="#dd0000"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path84" />
+    </g>
+    <g
+       id="shape4">
+      <path
+         d="m 26.6,13.3 q -0.05,-0.05 -0.1,-0.9 0,-0.45 -0.1,-1.1 Q 26.3,10.7 26.1,9.9 25.7,8.25 24.4,6.3 23.15,4.4 20.75,2.85 18.35,1.35 15.2,1 14.4,1 13.6,1 12.8,1.05 12,1.2 10.4,1.5 8.9,2.25 5.8,3.75 3.9,6.7 3,8.2 2.5,9.85 2,11.55 2,13.25 q 0,1.85 0.5,3.45 0.5,1.65 1.4,3.15 1.95,2.95 5,4.5 3.05,1.45 6.3,1.2 3.15,-0.3 5.55,-1.8 2.4,-1.55 3.65,-3.5 1.3,-1.95 1.7,-3.55 0.2,-0.8 0.3,-1.45 0.1,-0.6 0.1,-1.05 0.1,-0.9 0.1,-0.9 -0.05,0 -0.05,0.9 0,0.4 -0.15,1.05 -0.05,0.65 -0.25,1.45 -0.4,1.65 -1.6,3.65 -1.2,2 -3.55,3.75 -2.35,1.75 -5.75,2.35 Q 11.9,26.95 8.3,25.6 6.6,24.9 5.05,23.7 3.5,22.5 2.35,20.85 1.25,19.2 0.6,17.25 0.05,15.25 0,13.35 0.05,11.2 0.6,9.3 1.25,7.35 2.35,5.7 3.55,4.1 5.05,2.85 6.6,1.65 8.3,0.95 10.05,0.25 11.85,0.1 12.75,0 13.55,0 q 0.9,0.05 1.75,0.15 3.35,0.55 5.7,2.3 2.35,1.8 3.55,3.8 1.2,2 1.6,3.6 0.2,0.8 0.25,1.45 0.15,0.65 0.15,1.1 0,0.85 0.05,0.9"
+         fill="#dd0000"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path87" />
+    </g>
+  </defs>
+</svg>

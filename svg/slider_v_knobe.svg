@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="12.6"
+   width="24.15"
+   version="1.1"
+   id="svg82"
+   sodipodi:docname="slider_v_knobe.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview84"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="62.318842"
+     inkscape:cx="14.867093"
+     inkscape:cy="7.8868603"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="1341"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg82" />
+  <g
+     transform="scale(0.5,0.75)"
+     id="g48">
+    <use
+       height="26"
+       width="48.150002"
+       xlink:href="#shape0"
+       id="use44" />
+    <use
+       height="3"
+       transform="translate(7.6,6.85)"
+       width="33.599998"
+       xlink:href="#shape1"
+       id="use46" />
+  </g>
+  <defs
+     id="defs80">
+    <g
+       id="shape0">
+      <path
+         d="M 46.95,16.5 H 1.15 Q 0.35,16.4 0.25,15.6 V 1.15 q 0.1,-0.8 0.9,-0.9 h 45.8 q 0.85,0.1 0.95,0.9 V 15.6 q -0.1,0.8 -0.95,0.9"
+         fill="url(#gradient0)"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path50" />
+      <path
+         d="M 46.95,16.5 H 1.15 Q 0.35,16.4 0.25,15.6 V 1.15 q 0.1,-0.8 0.9,-0.9 h 45.8 q 0.85,0.1 0.95,0.9 V 15.6 q -0.1,0.8 -0.95,0.9 z"
+         fill="none"
+         stroke="#777777"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-opacity="0.898039"
+         stroke-width="0.5"
+         id="path52" />
+    </g>
+    <linearGradient
+       gradientTransform="matrix(0,-0.0099,0.0099,0,24.05,8.35)"
+       gradientUnits="userSpaceOnUse"
+       id="gradient0"
+       spreadMethod="pad"
+       x1="-819.20001"
+       x2="819.20001">
+      <stop
+         offset="0.0"
+         stop-color="#666666"
+         stop-opacity="0.8980392"
+         id="stop55" />
+      <stop
+         offset="0.5137254901960784"
+         stop-color="#50504f"
+         stop-opacity="0.8980392"
+         id="stop57" />
+      <stop
+         offset="1.0"
+         stop-color="#222222"
+         stop-opacity="0.8980392"
+         id="stop59" />
+    </linearGradient>
+    <g
+       id="shape1">
+      <path
+         d="M 33.05,2.55 H 0.6 Q 0.45,2.5 0.45,2.4 V 0.6 q 0,-0.15 0.15,-0.15 h 32.45 q 0.1,0 0.1,0.15 v 1.8 q 0,0.1 -0.1,0.15"
+         fill="url(#gradient1)"
+         fill-rule="evenodd"
+         stroke="none"
+         id="path62" />
+      <path
+         d="M 33.05,2.55 H 0.6 Q 0.45,2.5 0.45,2.4 V 0.6 q 0,-0.15 0.15,-0.15 h 32.45 q 0.1,0 0.1,0.15 v 1.8 q 0,0.1 -0.1,0.15 z"
+         fill="none"
+         stroke="#00ff00"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.9"
+         id="path64" />
+    </g>
+    <linearGradient
+       gradientTransform="matrix(0,-9e-4,0.0013,0,16.8,1.8)"
+       gradientUnits="userSpaceOnUse"
+       id="gradient1"
+       spreadMethod="pad"
+       x1="-819.20001"
+       x2="819.20001">
+      <stop
+         offset="0.0"
+         stop-color="#002200"
+         id="stop67" />
+      <stop
+         offset="0.38823529411764707"
+         stop-color="#00aa00"
+         id="stop69" />
+      <stop
+         offset="0.5333333333333333"
+         stop-color="#00ff00"
+         id="stop71" />
+      <stop
+         offset="0.5372549019607843"
+         stop-color="#00ff00"
+         id="stop73" />
+      <stop
+         offset="0.5607843137254902"
+         stop-color="#00aa00"
+         id="stop75" />
+      <stop
+         offset="1.0"
+         stop-color="#002200"
+         id="stop77" />
+    </linearGradient>
+  </defs>
+</svg>

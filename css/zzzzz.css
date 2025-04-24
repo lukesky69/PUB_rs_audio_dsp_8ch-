@@ -1,0 +1,1000 @@
+body {
+    font-family: "Arial";
+    background: #ffffff url(../svg/background_rs_1.svg) no-repeat;
+    user-select: none;
+    min-height: 100vh;
+    max-width: 400px;
+    margin: 0 auto;
+
+}
+
+
+.menuButton {
+    -moz-box-shadow: 0px 0px 0px 2px #e3e3e3;
+    -webkit-box-shadow: 0px 0px 0px 2px #e3e3e3;
+    box-shadow: 0px 0px 0px 2px #e3e3e3;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #242424), color-stop(1, #808080));
+    background: -moz-linear-gradient(top, #242424 5%, #808080 100%);
+    background: -webkit-linear-gradient(top, #242424 5%, #808080 100%);
+    background: -o-linear-gradient(top, #242424 5%, #808080 100%);
+    background: -ms-linear-gradient(top, #242424 5%, #808080 100%);
+    background: linear-gradient(to bottom, #242424 5%, #808080 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#242424', endColorstr='#808080', GradientType=0);
+    background-color: #242424;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 20px;
+    border: 1px solid #bfbfbf;
+    display: inline-block;
+    cursor: pointer;
+    color: #b3b3b3;
+    font-family: Arial;
+    font-size: 19px;
+    padding: 8px 76px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+}
+
+.menuButton:hover {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #808080), color-stop(1, #242424));
+    background: -moz-linear-gradient(top, #808080 5%, #242424 100%);
+    background: -webkit-linear-gradient(top, #808080 5%, #242424 100%);
+    background: -o-linear-gradient(top, #808080 5%, #242424 100%);
+    background: -ms-linear-gradient(top, #808080 5%, #242424 100%);
+    background: linear-gradient(to bottom, #808080 5%, #242424 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#808080', endColorstr='#242424', GradientType=0);
+    background-color: #808080;
+}
+
+.menuButton:active {
+    position: relative;
+    top: 1px;
+}
+
+
+
+
+
+.mute {
+    position: absolute;
+    top: 52px;
+    left: 10px;
+    background: url(../svg/btn_umute.svg) no-repeat;
+    width: 43px;
+    height: 43px;
+    border: 0;
+    cursor: pointer;
+    --select_img: url(../svg/btn_mute.svg) no-repeat;
+    --unselect_img: url(../svg/btn_umute.svg) no-repeat;
+}
+
+.link {
+    position: absolute;
+    top: 52px;
+    left: 70px;
+    background: url(../svg/btn_ulink.svg) no-repeat;
+    width: 43px;
+    height: 43px;
+    border: 0;
+    opacity: 1.0;
+    cursor: pointer;
+}
+.linkBcolor {
+    position: absolute;
+    top: 53px;
+    left: 71px;
+  
+    width: 35px;
+    height: 35px;
+    border: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+.pha {
+    background: url(../svg/btn_pha.svg) no-repeat;
+    position: absolute;
+    top: 52px;
+    left: 130px;
+    width: 43px;
+    height: 43px;
+    border: 0;
+    cursor: pointer;
+}
+
+.slider_v_frame {
+    background: url(../svg/slider_v_frame.svg) no-repeat;
+    width: 24px;
+    height: 173px;
+    border: 0;
+    opacity: 1;
+    cursor: pointer;
+
+}
+
+.slider_v_knobe {
+    width: 26px;
+    height: 14px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    background: url(../svg/slider_v_knobe.svg) no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.slider_h_frame {
+    background: url(../svg/slider_h_frame.svg) no-repeat;
+    width: 542.75pxpx;
+    height: 42.7px;
+    border: 0;
+    opacity: 1;
+    cursor: pointer;
+
+}
+
+.slider_h_knobe {
+    width: 14px;
+    height: 26px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    background: url(../svg/slider_h_knobe.svg) no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.meter_frame {
+    background: url(../svg/meter_frame.svg) no-repeat;
+    width: 24px;
+    height: 173px;
+    position: absolute;
+    border: 0;
+    opacity: 1;
+    cursor: pointer;
+
+}
+.led_off {
+    width: 18px;
+    height: 7px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    background: url(../svg/led_off.svg) no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+}
+.led_red {
+    width: 18px;
+    height: 7px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    background: url(../svg/led_red.svg) no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+}
+.led_green {
+    width: 18px;
+    height: 7px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    background: url(../svg/led_green.svg) no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+}
+.led_yellow {
+    width: 18px;
+    height: 7px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    background: url(../svg/led_yellow.svg) no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+
+
+
+.container {
+    position: absolute;
+    width: 1280px;
+    margin: 0 auto 0 auto;
+    padding: 1px;
+    border: 1px solid #cccccc;
+    height: 1024px;
+    background: url(../svg/background_rs_1.svg) no-repeat;
+
+}
+
+.ex1 {
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    width: 150px;
+    padding: 5px;
+    border: 1px solid gray;
+}
+
+
+#popUpbuttonframe {
+    position: absolute;
+    background: url(../svg/popup.svg) no-repeat;
+    width: 150px;
+    height: 150px;
+    border: 0px solid #000;
+    z-index: 9002;
+}
+
+
+
+
+
+#dialogoverlay {
+    display: none;
+    opacity: 0.5;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: #fff;
+    width: 100%;
+    z-index: 10;
+}
+
+#dialogbox {
+    display: none;
+    position: fixed;
+    background: #000;
+    border-radius: 7px;
+    width: 550px;
+    z-index: 10;
+}
+
+#dialogbox>div {
+    background: #FFF;
+    margin: 8px;
+}
+
+#dialogbox>div>#dialogboxhead {
+    background: #666;
+    font-size: 19px;
+    padding: 10px;
+    color: #CCC;
+}
+
+#dialogbox>div>#dialogboxbody {
+    background: #333;
+    padding: 20px;
+    color: #FFF;
+}
+
+#dialogbox>div>#dialogboxfoot {
+    background: #666;
+    padding: 10px;
+    text-align: right;
+}
+
+#rslogo {
+    position: absolute;
+    top: 400px;
+    left: 1136px;
+    width: 300px;
+    height: 100px;
+    opacity: 1.0;
+    background: url(../svg/logors.svg) no-repeat;
+    background-color: transparent;
+}
+
+#martion {
+    position: absolute;
+    top: 420px;
+    left: 1136px;
+    width: 400px;
+    height: 100px;
+    opacity: 1.0;
+    background: url(../svg/basil.png) no-repeat;
+    background-color: transparent;
+}
+
+#martion2 {
+    position: absolute;
+    top: 370px;
+    left: 160px;
+    width: 1200px;
+    height: 200px;
+    opacity: 0.15;
+    background: url(../svg/basil2.png) no-repeat;
+    background-color: transparent;
+}
+
+
+#rslogo2 {
+    position: absolute;
+    top: 250px;
+    left: 1136px;
+    width: 300px;
+    height: 100px;
+    opacity: 0.9;
+    background: url(../svg/logors.svg) no-repeat;
+
+    background-color: transparent;
+}
+
+#svgcolorback {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1508.0px;
+    height: 844.5px;
+    opacity: 0.15;
+    background: url(../svg/BackColor.svg) no-repeat;
+    background-color: transparent;
+}
+
+
+#sliderFrame1 {
+    position: absolute;
+    top: 116.8px;
+    left: 14.425px;
+    width: 482px;
+    height: 96px;
+    opacity: 1;
+    background: url(../svg/slider_frame.svg) no-repeat;
+    background-color: transparent;
+}
+
+.sliderFramelbl {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 30px;
+    opacity: 1;
+    fill: white;
+
+}
+
+
+
+
+.Graphlabel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 30px;
+    opacity: 1;
+    fill: white;
+
+}
+
+
+.sliderFrame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 482px;
+    height: 96px;
+    opacity: 1;
+    background: url(../svg/slider_frame.svg) no-repeat;
+    background-color: transparent;
+}
+
+.FrameBColor {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 171.24px;
+    height: 214.24px;
+    opacity: 0.7;
+    background-color: transparent;
+}
+
+.Frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 173.24px;
+    height: 216.24px;
+    opacity: 1;
+    background: url(../svg/frame.svg) no-repeat;
+
+    background-color: transparent;
+}
+.MFrame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    opacity: 1;
+    background-color: transparent;
+}
+
+
+.PanelFramelbl {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 115px;
+    height: 30px;
+    opacity: 1;
+    fill: white;
+
+}
+
+.FramePanelBcolor {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 115px;
+    height: 585px;
+    opacity: 0.7;
+    background-color: transparent;
+}
+
+.FramePanel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 115px;
+    height: 585px;
+    opacity: 1;
+    background: url(../svg/panel_frame.svg) no-repeat;
+
+    background-color: transparent;
+}
+.MFramePanel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 115px;
+    height: 585px;
+    opacity: 1;
+    background-color: transparent;
+}
+
+
+
+
+.EqBandBColor {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 998;
+    height: 58px;
+    opacity: 0.7;
+    background-color: transparent;
+}
+
+.EqBand {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 60px;
+    opacity: 1;
+    background: url(../svg/eqband_frame.svg) no-repeat;
+    background-color: transparent;
+}
+
+.MEqBand {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 60px;
+    opacity: 1;
+    background-color: transparent;
+}
+
+.GraphFBColor {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 996;
+    height: 596px;
+    opacity: 0.4;
+    background-color: transparent;
+}
+
+.GraphF {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 600px;
+    opacity: 1;
+    background: url(../svg/graph_frame.svg) no-repeat;
+
+    background-color: transparent;
+}
+
+.MGraphF {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 600px;
+    opacity: 1;
+    background-color: transparent;
+}
+
+.sliderFrameBcolor {
+    position: relative;
+    top: 1;
+    left: 1;
+    width: 480px;
+    height: 108px;
+    opacity: 0.7;
+    background-color: transparent;
+}
+
+
+.sliderFrame2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 462px;
+    height: 96px;
+    opacity: 1;
+    background: url(../svg/slider_frame.svg) no-repeat;
+    background-color: transparent;
+
+
+}
+
+
+
+#readout {
+    position: absolute;
+    top: 579px;
+    left: 14px;
+    width: 1000px;
+    height: 30px;
+    opacity: 1;
+
+    background-color: transparent;
+}
+
+#sliderFrame2 {
+    position: absolute;
+    top: 116.8px;
+    left: 503px;
+    width: 482px;
+    height: 96px;
+    opacity: 1;
+    background: url(../svg/slider_frame.svg) no-repeat;
+    background-color: transparent;
+}
+
+#sliderFrame3 {
+    position: absolute;
+    top: 116.8px;
+    left: 991px;
+    width: 482px;
+    height: 96px;
+    opacity: 1;
+    background: url(../svg/slider_frame.svg) no-repeat;
+    background-color: transparent;
+}
+
+#SourceFrame1 {
+    position: absolute;
+    top: 370px;
+    left: 1138px;
+    width: 328px;
+    height: 100px;
+    opacity: 1;
+    background-color: transparent;
+}
+
+.buttonFrame {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 177.85px;
+    height: 95.65px;
+    opacity: 1;
+    background: url(../svg/btn_frame.svg) no-repeat;
+    background-color: transparent;
+}
+
+.buttonFrameBColor {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 176px;
+    height: 94px;
+    opacity: 0.7;
+    background-color: transparent;
+}
+
+.labelFrame {
+    position: absolute;
+    top: 22px;
+    left: 8px;
+    fill: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.combo1 {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 172;
+    height: 52px;
+    opacity: 1;
+    background: url(../svg/combobox.svg) no-repeat;
+    background-color: transparent;
+}
+
+.svgcombo {
+    width: 172;
+    height: 52px;
+    opacity: 1;
+    background-color: transparent;
+}
+
+.circbtn {
+    width: 100%;
+    height: 100%;
+    stroke: black;
+    stroke-width: 2px;
+    fill: darkgray;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.mark {
+    --select-color: #07ff17;
+}
+
+
+.flabel {
+    width: 172;
+    height: 52px;
+    position: absolute;
+    fill: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.sliderH {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 272px;
+    height: 24.2;
+    opacity: 1;
+    background: url(../svg/slider_h.svg) no-repeat;
+    background-color: transparent;
+}
+
+.sliderKH {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 13.1px;
+    height: 24.2px;
+    opacity: 1;
+    background: url(../svg/slider_h_knobe.svg) no-repeat;
+    background-color: transparent;
+}
+
+.sliderV {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 172px;
+    opacity: 1;
+    background: url(../svg/slider_v.svg) no-repeat;
+    background-color: transparent;
+}
+
+.sliderV1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 130px;
+    opacity: 1;
+    background: url(../svg/slider_v.svg) no-repeat;
+    background-color: transparent;
+}
+
+
+.sliderKV {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 23.85px;
+    height: 13.2px;
+    opacity: 1;
+    background: url(../svg/slider_v_knobe.svg) no-repeat;
+    background-color: transparent;
+}
+
+#lower_frame1 {
+    position: absolute;
+    top: 620.425px;
+    left: 13.4px;
+    width: 1500px;
+    height: 220px;
+    opacity: 1;
+    background: url(../svg/lower_frame.svg) no-repeat;
+    background-color: transparent;
+}
+
+#label_frame1 {
+    position: absolute;
+    top: 34px;
+    left: 388px;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    background: url(../svg/label_background.svg) no-repeat;
+    background-color: transparent;
+}
+
+#label_frame2 {
+    position: absolute;
+    top: 64px;
+    left: 388px;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    background: url(../svg/label_background.svg) no-repeat;
+    background-color: transparent;
+}
+
+#fcombo {
+    position: absolute;
+    top: 4px;
+    left: 350px;
+    width: 120px;
+    height: 24.2px;
+    opacity: 1;
+    color: gray;
+    background: url(../svg/slider_h.svg) no-repeat;
+    background-color: transparent;
+}
+
+#finput {
+    position: absolute;
+    top: 33px;
+    left: 384px;
+    width: 84px;
+    height: 24.2px;
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    background: url(../svg/slider_h.svg) no-repeat;
+    background-color: transparent;
+}
+
+
+.myButton {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #000000), color-stop(1, #525252));
+    background: -moz-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -webkit-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -o-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -ms-linear-gradient(top, #000000 5%, #525252 100%);
+    background: linear-gradient(to bottom, #000000 5%, #525252 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#525252', GradientType=0);
+    background-color: #000000;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #4f4f4f;
+    display: inline-block;
+    cursor: pointer;
+    color: #e2e2e2;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 1px 1px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+    --select-color: #00e60b;
+    --unselect-color: #e2e2e2;
+    --button-mode: 0;
+
+}
+
+.myButton:active {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #525252), color-stop(1, #000000));
+    background: -moz-linear-gradient(top, #525252 5%, #000000 100%);
+    background: -webkit-linear-gradient(top, #525252 5%, #000000 100%);
+    background: -o-linear-gradient(top, #525252 5%, #000000 100%);
+    background: -ms-linear-gradient(top, #525252 5%, #000000 100%);
+    background: linear-gradient(to bottom, #525252 5%, #000000 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#525252', endColorstr='#000000', GradientType=0);
+    background-color: #525252;
+
+}
+
+.myButton:hover {
+    position: relative;
+    top: 2px;
+
+}
+
+.myButtonGroup {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #000000), color-stop(1, #525252));
+    background: -moz-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -webkit-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -o-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -ms-linear-gradient(top, #000000 5%, #525252 100%);
+    background: linear-gradient(to bottom, #000000 5%, #525252 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#525252', GradientType=0);
+    background-color: #000000;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #4f4f4f;
+    display: inline-block;
+    cursor: pointer;
+    color: #e2e2e2;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 1px 1px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+    --select-color: #02ff0f;
+    --unselect-color: #e2e2e2;
+    --button-mode: 1;
+
+}
+
+.myButtonGroup:active {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #525252), color-stop(1, #000000));
+    background: -moz-linear-gradient(top, #525252 5%, #000000 100%);
+    background: -webkit-linear-gradient(top, #525252 5%, #000000 100%);
+    background: -o-linear-gradient(top, #525252 5%, #000000 100%);
+    background: -ms-linear-gradient(top, #525252 5%, #000000 100%);
+    background: linear-gradient(to bottom, #525252 5%, #000000 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#525252', endColorstr='#000000', GradientType=0);
+    background-color: #525252;
+
+}
+
+.myButtonGroup:hover {
+    position: relative;
+    top: 2px;
+
+}
+
+.inclassstylecombo {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #000000), color-stop(1, #525252));
+    background: -moz-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -webkit-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -o-linear-gradient(top, #000000 5%, #525252 100%);
+    background: -ms-linear-gradient(top, #000000 5%, #525252 100%);
+    background: linear-gradient(to bottom, #000000 5%, #525252 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#525252', GradientType=0);
+    background-color: #000000;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #4f4f4f;
+    display: inline-block;
+    cursor: pointer;
+    color: #f8f6f0;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 1px 1px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+    width: 100%;
+    height: 100%;
+}
+
+.inclassstyle {
+
+    background: linear-gradient(to bottom, #4d4d4d 5%, #525252 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#525252', GradientType=0);
+    background-color: #000000;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #4f4f4f;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 1px 1px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+    width: 100%;
+    height: 100%;
+}
+
+.inclassstyle2 {
+
+    background: linear-gradient(to bottom, #4d4d4d 5%, #525252 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#525252', GradientType=0);
+    background-color: #000000;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #4f4f4f;
+    display: inline-block;
+    cursor: pointer;
+    color: #ed0707;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 1px 1px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+    width: 100%;
+    height: 100%;
+}
+
+.inclassstyle2lbl {
+
+    background-color: transparent;
+
+    border: 0px;
+
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 1px 1px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.inclassstylelbl {
+
+    background-color: transparent;
+
+    border: 0px;
+
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 1px 1px;
+    text-decoration: none;
+
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.Eqlabel {
+    position: absolute;
+    color:rgb(255, 255, 255);
+    fill:rgb(255, 255, 255);
+    font-size:12px; 
+    opacity: 1;
+
+}
+.lbx {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 200px;
+    font-size:16px; 
+    opacity: 1;
+    fill: white;
+
+}

@@ -1,0 +1,5 @@
+ <stop offset="0.0" stop-color="#1d1d1b"/>
+      <stop offset="0.4117647058823529" stop-color="#444442"/>
+      <stop offset="0.5176470588235295" stop-color="#525250"/>
+      <stop offset="0.6039215686274509" stop-color="#3f3f3e"/>
+      <stop offset="1.0" stop-color="#000000"/>
