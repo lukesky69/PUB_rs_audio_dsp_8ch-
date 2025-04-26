@@ -1,0 +1,11 @@
+{
+  "name": "rs_audio_dsp_8ch",
+  "version": "1.0.0",
+  "description": "A basic audio DSP package",
+  "main": "rse_dspx.html",
+  "scripts": {
+    "start": "open rse_dspx.html"
+  },
+  "author": "Luka69",
+  "license": "MIT"
+}
